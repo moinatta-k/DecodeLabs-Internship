@@ -17,3 +17,5 @@ This repository contains my completed projects for the DecodeLabs Internship (Ba
 
 ## Author
 Moin Atta Khakwani
+
+TRYING TO BE BETTER
