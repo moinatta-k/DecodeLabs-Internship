@@ -1,6 +1,6 @@
 # DecodeLabs Internship — Cyber Security Track
 
-This repository contains my completed projects for the DecodeLabs Industrial Training Kit (Batch 2026), Cyber Security track. Each project is self-contained in its own folder with source code and a dedicated README.
+This repository contains my completed projects for the DecodeLabs Internship (Batch 2026), Cyber Security track. Each project is self-contained in its own folder with source code and a dedicated README.
 
 ## Projects
 
