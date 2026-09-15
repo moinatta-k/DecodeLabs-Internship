@@ -38,5 +38,5 @@ These projects demonstrate foundational cybersecurity skills through code that s
 
 ## Author
 - Moin Atta Khakwani
-- GitHub: @moinatta-k
+- GitHub: [@moinatta-k](https://github.com/moinatta-k)
 
