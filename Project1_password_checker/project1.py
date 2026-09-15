@@ -1,4 +1,7 @@
-with open("100k-most-used-passwords-NCSC.txt", "r") as file:
+from pathlib import Path
+
+password_file = Path(__file__).with_name("100k-most-used-passwords-NCSC.txt")
+with password_file.open("r") as file:
     common_passwords = set(line.strip() for line in file)
 while True:
     password = input("Enter your password: ")
